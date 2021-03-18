@@ -5,7 +5,7 @@ import (
 	"context"
 	"flag"
 	"fmt"
-	pb "go_sandbox/grpc_stream/chat"
+	pb "github.com/s-k0bayash1/go_sandbox/grpc_stream/chat"
 	"google.golang.org/grpc"
 	"io"
 	"log"

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/golang/protobuf/ptypes/empty"
-	pb "go_sandbox/grpc_stream/chat"
+	pb "github.com/s-k0bayash1/go_sandbox/grpc_stream/chat"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

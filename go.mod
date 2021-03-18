@@ -1,4 +1,4 @@
-module go_sandbox
+module github.com/s-k0bayash1/go_sandbox
 
 go 1.16
 
