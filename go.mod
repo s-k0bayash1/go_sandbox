@@ -1,6 +1,6 @@
 module github.com/s-k0bayash1/go_sandbox
 
-go 1.17
+go 1.18
 
 require (
 	github.com/golang/protobuf v1.5.2
@@ -9,6 +9,7 @@ require (
 )
 
 require (
+	golang.org/x/exp v0.0.0-20220317015231-48e79f11773a // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
 	golang.org/x/sys v0.0.0-20220317022123-2c4bbad7e934 // indirect
 	golang.org/x/text v0.3.7 // indirect
